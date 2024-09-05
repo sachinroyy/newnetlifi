@@ -1,0 +1,2 @@
+@tailwind base;@tailwind components;@tailwind utilities;.header{background-color:aqua;color:red;height:40px;margin:5px;padding:5px;width:100%}.menu{background-color:#000;color:wheat;height:100vh;left:-100%;position:fixed}.menu ul li{gap:10px;margin:20px 60% 20px 20px;padding:20px}.icon button{background-color:#0f0e0e;color:#f0f8ff;left:-20%;margin-left:650px;position:absolute}.activemenu{left:0}
+/*# sourceMappingURL=main.bb43d5f1.css.map*/
